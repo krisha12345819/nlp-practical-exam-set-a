@@ -1,6 +1,6 @@
 streamlit
 nltk
-scikit-learn==X.Y.Z
+scikit-learn==1.8.0
 pandas
 numpy
 altair
