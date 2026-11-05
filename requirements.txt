@@ -1,0 +1,13 @@
+streamlit>=1.36
+nltk>=3.8
+scikit-learn>=1.3
+pandas
+numpy
+altair
+joblib
+gensim
+matplotlib
+seaborn
+# IMPORTANT: replace the scikit-learn line above with the EXACT version
+# printed by your notebook, e.g.  scikit-learn==1.5.2
+# (run in the notebook:  import sklearn; print(sklearn.__version__))
