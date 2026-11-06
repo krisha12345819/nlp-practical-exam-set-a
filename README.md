@@ -17,7 +17,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Accuracy](https://img.shields.io/badge/Accuracy-86.5%25-brightgreen)
 
-**[🌐 Try the App](https://cinesense-review-analytics-for-an-ottplatform.streamlit.app/)** ·
+**[🌐 Try the App](https://cinesense-review-analytics-nlp.streamlit.app/)** ·
 **[📓 Notebook](NLP_Practical_Exam_SetA.ipynb)** ·
 **[📝 Summary Report](summary_report.md)** ·
 **[🎥 Video](YOUR_VIDEO_LINK)**
@@ -61,13 +61,10 @@ This project builds a small, working system that **cleans raw text → converts 
 
 ## 🚀 Live Demo
 
-> 🔗 **App URL:** https://cinesense-review-analytics-for-an-ottplatform.streamlit.app/
+> 🔗 **App URL:** https://cinesense-review-analytics-nlp.streamlit.app/
 
 Paste a movie review → click **Analyse Sentiment** → get the label, confidence, the top 3 influential words and the POS tags of your text.
-
-| 😊 Clearly Positive | 😞 Clearly Negative | 🤔 Tricky (Negation) |
-|:---:|:---:|:---:|
-| ![positive](outputs/streamlit_positive.png) | ![negative](outputs/streamlit_negative.png) | ![tricky](outputs/streamlit_tricky.png) |
+---
 
 **App features**
 
@@ -298,9 +295,9 @@ Then open http://localhost:8501.
 ## 👤 Author
 
 **Krisha Anghan**
-NLP Practical Exam (Set A) · Red & White Skill Education
+NLP Practical Exam (Set A)
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-KRISHA_ANGHAN-181717?logo=github)](https://github.com/krisha12345819)
 
 <div align="center">
 
