@@ -7,7 +7,7 @@
 **NLP Practical Exam · Set A ·**
 
 [![Live App](https://img.shields.io/badge/🚀_Live_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cinesense-review-analytics-for-an-ottplatform.streamlit.app/)
-[![Video](https://img.shields.io/badge/🎥_Demo_Video-Watch-red?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_LINK)
+[![Video](https://img.shields.io/badge/🎥_Demo_Video-Watch-red?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1BNABGdPrkk4mRojx-FoqIFo7CyJ-m3XF/view?usp=sharing)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8.0-F7931E?logo=scikitlearn&logoColor=white)
@@ -20,7 +20,7 @@
 **[🌐 Try the App](https://cinesense-review-analytics-nlp.streamlit.app/)** ·
 **[📓 Notebook](NLP_Practical_Exam_SetA.ipynb)** ·
 **[📝 Summary Report](summary_report.md)** ·
-**[🎥 Video](YOUR_VIDEO_LINK)**
+**[🎥 Video](https://drive.google.com/file/d/1BNABGdPrkk4mRojx-FoqIFo7CyJ-m3XF/view?usp=sharing)**
 
 </div>
 
@@ -274,9 +274,9 @@ Then open http://localhost:8501.
 
 ## 🎥 Video
 
-[![Watch the demo](https://img.shields.io/badge/▶_Watch_Video-Face_+_Screen_Walkthrough-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK)
+[![Watch the demo](https://img.shields.io/badge/▶_Watch_Video-Face_+_Screen_Walkthrough-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1BNABGdPrkk4mRojx-FoqIFo7CyJ-m3XF/view?usp=sharing)
 
-> 🎬 `Practical_Exam_YourName_GRID.mp4` — face + screen walkthrough of every NLP technique, results and the app demo.
+> 🎬 `Practical_Exam_Krisha_anghan_10771.mp4` — face + screen walkthrough of every NLP technique, results and the app demo.
 
 ---
 
